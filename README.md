@@ -1,1 +1,1 @@
-# Bu böümde C# ile yaptığım projeleri paylaşıyorum
+Applications I wrote while learning C #
